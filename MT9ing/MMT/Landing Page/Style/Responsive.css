@@ -1,0 +1,11 @@
+/* 
+
+
+@media (max-height:900px) {
+    body::after{height: 120%;}
+    .container{height: 700px;}
+    .Logo{position: static; margin-left: -50px;}
+    .nav{margin-top:40px; margin-bottom: -70px;}
+    .show .clock{display: none;}
+    .show .clock2{height: 400px; display: flex;}
+} */
